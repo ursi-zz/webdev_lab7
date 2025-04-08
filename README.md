@@ -2,6 +2,7 @@
 wk 5 css assignment: styling an HTML table using CSS
 
 Process:
+    
     Use the index.html file, the css folder, and the images folder to create your lab repository. 
     Include the css file found inside the folder.
     
