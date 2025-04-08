@@ -21,7 +21,7 @@ Process:
         Live Link
         Image of Validation Screen Capture
         THERE IS NO NEED FOR A FILE COMPARISON.
-
+    
     This lab will be graded based on how your CSS style looks, and if you completed all the requested items.
         A very simply styled page in the top corner of the web page will not receive all the points.
         Try to make the page look fully styled and not like any browser default.
